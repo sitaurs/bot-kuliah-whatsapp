@@ -1,5 +1,9 @@
 # 🤖 Bot Kuliah WhatsApp
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6d3d4eW9wd3Z1ZHVwb3p1dWI4d2UyZ3N0d2R0c3p4aGhqYmk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sk4pIqB0bJ4S1719s8/giphy.gif" alt="Bot Kuliah WhatsApp Banner" width="500"/>
+</p>
+
 ![Lisensi ISC](https://img.shields.io/badge/License-ISC-blue.svg) ![Node.js](https://img.shields.io/badge/Node.js-18.x+-green.svg) ![Baileys](https://img.shields.io/badge/WhatsApp%20API-Baileys-brightgreen)
 
 Selamat datang di **Bot Kuliah WhatsApp**! Bot ini adalah asisten pribadi yang dirancang khusus untuk membantu mahasiswa mengelola kehidupan perkuliahan dengan lebih efisien. Mulai dari pengingat jadwal, manajemen tugas, hingga akses cepat ke materi kuliah, semua terintegrasi dalam satu bot WhatsApp yang cerdas.
@@ -211,3 +215,4 @@ Ingin menyesuaikan bot? Berikut panduan untuk setiap file penting.
 ## 📄 Lisensi
 
 Proyek ini dilisensikan di bawah [Lisensi ISC](https://opensource.org/licenses/ISC).
+
